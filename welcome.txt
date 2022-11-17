@@ -1,1 +1,3 @@
-Welcome to this giit repository!!
+Welcome to this git repository!!
+
+Enjoy Learning!!
